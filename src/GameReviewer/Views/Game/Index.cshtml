@@ -1,0 +1,11 @@
+﻿@model List<GameReviewer.Models.Game>
+
+<h1>Game Reviewer</h1>
+<hr/>
+
+<ul>
+    @foreach (var game in Model)
+    {
+        <li>@game.Name</li>
+    }
+</ul>

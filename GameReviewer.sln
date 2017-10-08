@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{4B0BC4EF-4C5C-43C3-BE30-A724E6628067}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{EAE8E6C4-1739-4DBD-B92D-7F17F610C91A}"
 EndProject
-Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "GameReviewer", "src\GameReviewer\GameReviewer.xproj", "{1A823267-80F6-4D98-9D54-15067FD4BBD1}"
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "GameReviewer", "src\GameReviewer\GameReviewer.xproj", "{2B16B8D0-7E3F-48FC-8F3E-F587F7609962}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,15 +13,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{1A823267-80F6-4D98-9D54-15067FD4BBD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1A823267-80F6-4D98-9D54-15067FD4BBD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1A823267-80F6-4D98-9D54-15067FD4BBD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1A823267-80F6-4D98-9D54-15067FD4BBD1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B16B8D0-7E3F-48FC-8F3E-F587F7609962}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B16B8D0-7E3F-48FC-8F3E-F587F7609962}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B16B8D0-7E3F-48FC-8F3E-F587F7609962}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B16B8D0-7E3F-48FC-8F3E-F587F7609962}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{1A823267-80F6-4D98-9D54-15067FD4BBD1} = {4B0BC4EF-4C5C-43C3-BE30-A724E6628067}
+		{2B16B8D0-7E3F-48FC-8F3E-F587F7609962} = {EAE8E6C4-1739-4DBD-B92D-7F17F610C91A}
 	EndGlobalSection
 EndGlobal
